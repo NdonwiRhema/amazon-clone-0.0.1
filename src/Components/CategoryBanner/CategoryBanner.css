@@ -1,0 +1,14 @@
+.carousel-category{
+    width: 100%;
+}
+.carousel{
+    position: absolute;
+    width: 100%;
+    
+}
+.category{
+    position: relative;
+    top: 250px;
+    background-image:linear-gradient(to bottom, rgba(211, 227, 241,0.0),  rgb(211, 227, 241));
+    padding: 18px;
+}

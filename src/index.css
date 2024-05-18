@@ -1,0 +1,37 @@
+:root {
+
+}
+
+a {
+  
+}
+a:hover {
+  
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  background-color: #ff9900;
+  outline: none;
+  border:none;
+
+}
+
+button:hover {
+}
+/* @media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+} */
